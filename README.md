@@ -1,1 +1,1 @@
-Trying to use Jenkin and Git 2gther
+Trying to use Jenkin and Git 2gether
